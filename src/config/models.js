@@ -1,5 +1,5 @@
 export const STABLE_MODELS = [
-    { name: "gemini-.5-flash", type: "generation" },
+    { name: "gemini-2.5-flash", type: "generation" },
     { name: "gemini-2.5-flash-lite", type: "generation" },
     { name: "gemini-3-flash-preview", type: "generation" },
     { name: "gemini-embedding-001", type: "embedding" },
